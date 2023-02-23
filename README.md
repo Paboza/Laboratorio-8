@@ -95,30 +95,53 @@ precedentes cada vez que conteste las preguntas. Para las lecturas de los valore
 considerar las graficas que presenta el osciloscopio.
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+
+3 cuadro abarca la amplitud 
 ___________
 
-¿En qué valor está posicionada la perilla VOLTS/DIV? _Se encuentra en 10 mi VOLTS/DIV 
+¿En qué valor está posicionada la perilla VOLTS/DIV? 
+
+Se encuentra en 2.25 v 
+___________
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
-__
 
-¿En qué valor está posicionada la perilla TIME/DIV? _ En el valor de 0.1m
+3 divisiones por cuadro abarca un ciclo completo
+___________
+
+¿En qué valor está posicionada la perilla TIME/DIV? _ 
+
+En el valor de 0.1 ms
+
 
       8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-Amplitud de voltaje: ____________(V)
+Amplitud de voltaje: 6.75 (V)
 
-Periodo: ____________(s)
+Periodo: 0.4 m(s)
 
      8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
      
-f: _____________(Hz)
+f: 2500(Hz)
 
-ω: ____________(rad/s)
+ω: 1507.9 (rad/s)
 
-     8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
-     
+     8.5.7. Con el multímetro digital mida el voltaje de salida en RL: 
+    
+![image](https://user-images.githubusercontent.com/116833964/220920814-86ae1c7a-8f38-4041-b94d-60cd9fb29687.png)
+
      8.5.8. Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
      
      ¿Coinciden? _______ ¿Por qué?
+     
+     
+No, no coinciden, dado que el osciloscopio mide voltje pico y el multimetro mide voltaje RMS
 _______________________________________________
+
+Conclusion .-
+
+Después de hacer la práctica de laboratorio se concluyó que el valor pico calculado por el osciloscopio no es el mismo que el valor rms calculado por el multímetro, por lo que se debe aplicar la fórmula de eficiencia, ya que entonces la aproximación dará el voltaje calculado por el multímetro. La teoría de ondas sinusoidales es una rama importante en el ejercicio de fundamentos de circuitos y consta de propiedades previamente aprendidas, es importante tener esto en cuenta ante la duda sobre la resolución del ejercicio Circuitos en paralelo. La resolución del ejercicio aplicando el periodo y la frecuencia de la onda sinusoidal también tiene en cuenta el método de aprendizaje aplicado en la ley de Kirchhoff, que establece que debes separar cada malla del circuito en partes.
+
+BIBLIOGRAFÍA.-
+
+ Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
