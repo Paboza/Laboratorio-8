@@ -86,30 +86,39 @@ Procedimiento.-
 
       8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
       
- ![image](https://user-images.githubusercontent.com/116833964/219753658-6d54cfff-881a-4ee5-9a5e-73baa7a60ab5.png)
-
+![image](https://user-images.githubusercontent.com/116833964/220913682-3bbd8455-78a7-4658-b70c-579f6fc7629d.png)
  
       8.5.4. Responda las siguientes preguntas:
-   
    
 NOTA: Todas las preguntas son relacionadas, por lo que debe considerar las respuestas
 precedentes cada vez que conteste las preguntas. Para las lecturas de los valores debe
 considerar las graficas que presenta el osciloscopio.
+
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 ___________
-¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
+
+¿En qué valor está posicionada la perilla VOLTS/DIV? _Se encuentra en 10 mi VOLTS/DIV 
+
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
-__________
-¿En qué valor está posicionada la perilla TIME/DIV? ___________
-8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
-del osciloscopio?
+__
+
+¿En qué valor está posicionada la perilla TIME/DIV? _ En el valor de 0.1m
+
+      8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+
 Amplitud de voltaje: ____________(V)
+
 Periodo: ____________(s)
-8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
-salida.
+
+     8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+     
 f: _____________(Hz)
+
 ω: ____________(rad/s)
-8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
-8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
-¿Coinciden? _______ ¿Por qué?
+
+     8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
+     
+     8.5.8. Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
+     
+     ¿Coinciden? _______ ¿Por qué?
 _______________________________________________
